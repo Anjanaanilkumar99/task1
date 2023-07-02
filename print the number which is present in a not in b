@@ -1,0 +1,5 @@
+ 
+    a=[1,2,4,32,12,6,8]
+    b=[2,6,10,12,14,17]
+    result=[x for x in a if x  not in b]
+    print(result)
